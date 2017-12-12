@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on BloomFinder</title>
+    <link>https://www.bloomfinder.org/post/</link>
+    <description>Recent content in Posts on BloomFinder</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2017 Ian Breckheimer</copyright>
+    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 -0800</lastBuildDate>
+    <atom:link href="/post/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Launching the BloomFinder Project</title>
+      <link>https://www.bloomfinder.org/post/launching_bloomfinder/</link>
+      <pubDate>Tue, 12 Dec 2017 10:23:27 -0800</pubDate>
+      
+      <guid>https://www.bloomfinder.org/post/launching_bloomfinder/</guid>
+      <description>
+
+&lt;p&gt;Today I&amp;rsquo;m excited to officially launch BloomFinder, a new citizen-science project aimed at tracking the blooms of wildflowers using photographs on social media platforms like Flickr and Instagram.&lt;/p&gt;
+
+&lt;h2 id=&#34;why-bloomfinder&#34;&gt;Why BloomFinder?&lt;/h2&gt;
+
+&lt;p&gt;For decades, scientists have used the seasonal timing of events like flowering to track the impacts of climate change. As these impacts accelerate, it&amp;rsquo;s becoming more and more important to understand where changes in climate are having the most severe impacts on ecosystems. Tracking flowering can help us understand how climate change is altering the risks of extreme climate events like growing season frost and drought.&lt;/p&gt;
+
+&lt;h2 id=&#34;how-are-we-doing-this&#34;&gt;How are we doing this?&lt;/h2&gt;
+
+&lt;p&gt;In the past few years, new machine-learning approaches (&amp;ldquo;deep learning&amp;rdquo;) have finally made it possible to trawl the web for observations of specific species in specific places. This is a new type of observing system that is sometimes called a &amp;ldquo;macroscope&amp;rdquo; because it allows us to see patterns at extremely large scales, patterns that would otherwise be invisible. Over the next two years, we will be developing this system and using it to track bloom timing across mountain ecosystems in the western USA.&lt;/p&gt;
+
+&lt;h2 id=&#34;what-else-is-cool-about-bloomfinder&#34;&gt;What else is cool about BloomFinder?&lt;/h2&gt;
+
+&lt;p&gt;In addition to advancing our scientific understanding, BloomFinder will also generate some great information for wildflower buffs that just want to catch ecosystems in peak bloom. In the course of the project, we will be creating detailed maps of the abundance of our focal species, and will eventually be able to post real-time forecasts of bloom timing.&lt;/p&gt;
+
+&lt;h2 id=&#34;how-can-i-help&#34;&gt;How can I help?&lt;/h2&gt;
+
+&lt;p&gt;In early 2018, we will start recruiting a small army of volunteers to help us train computers to recognize wildflowers. We are still working out the details here, but we will likely use the &lt;a href=&#34;https://www.zooniverse.org/&#34; target=&#34;_blank&#34;&gt;Zooniverse&lt;/a&gt; platform, which makes it easy and fun to classify photographs. If you&amp;rsquo;d rather donate your money than your time, we would love to get contributions via our project page on &lt;a href=&#34;https://experiment.com/&#34; target=&#34;_blank&#34;&gt;experiment.com&lt;/a&gt;. Regardless, you can help spread the word about BloomFinder by liking our page on &lt;a href=&#34;https://www.facebook.com/BloomFinder&#34; target=&#34;_blank&#34;&gt;Facebook&lt;/a&gt; and following us on &lt;a href=&#34;https://twitter.com/BloomFinder&#34; target=&#34;_blank&#34;&gt;Twitter&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

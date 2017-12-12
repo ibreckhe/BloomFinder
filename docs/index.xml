@@ -1,0 +1,503 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>BloomFinder on BloomFinder</title>
+    <link>https://www.bloomfinder.org/</link>
+    <description>Recent content in BloomFinder on BloomFinder</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2017 Ian Breckheimer</copyright>
+    <lastBuildDate>Wed, 20 Apr 2016 00:00:00 +0000</lastBuildDate>
+    <atom:link href="/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Launching the BloomFinder Project</title>
+      <link>https://www.bloomfinder.org/post/launching_bloomfinder/</link>
+      <pubDate>Tue, 12 Dec 2017 10:23:27 -0800</pubDate>
+      
+      <guid>https://www.bloomfinder.org/post/launching_bloomfinder/</guid>
+      <description>
+
+&lt;p&gt;Today I&amp;rsquo;m excited to officially launch BloomFinder, a new citizen-science project aimed at tracking the blooms of wildflowers using photographs on social media platforms like Flickr and Instagram.&lt;/p&gt;
+
+&lt;h2 id=&#34;why-bloomfinder&#34;&gt;Why BloomFinder?&lt;/h2&gt;
+
+&lt;p&gt;For decades, scientists have used the seasonal timing of events like flowering to track the impacts of climate change. As these impacts accelerate, it&amp;rsquo;s becoming more and more important to understand where changes in climate are having the most severe impacts on ecosystems. Tracking flowering can help us understand how climate change is altering the risks of extreme climate events like growing season frost and drought.&lt;/p&gt;
+
+&lt;h2 id=&#34;how-are-we-doing-this&#34;&gt;How are we doing this?&lt;/h2&gt;
+
+&lt;p&gt;In the past few years, new machine-learning approaches (&amp;ldquo;deep learning&amp;rdquo;) have finally made it possible to trawl the web for observations of specific species in specific places. This is a new type of observing system that is sometimes called a &amp;ldquo;macroscope&amp;rdquo; because it allows us to see patterns at extremely large scales, patterns that would otherwise be invisible. Over the next two years, we will be developing this system and using it to track bloom timing across mountain ecosystems in the western USA.&lt;/p&gt;
+
+&lt;h2 id=&#34;what-else-is-cool-about-bloomfinder&#34;&gt;What else is cool about BloomFinder?&lt;/h2&gt;
+
+&lt;p&gt;In addition to advancing our scientific understanding, BloomFinder will also generate some great information for wildflower buffs that just want to catch ecosystems in peak bloom. In the course of the project, we will be creating detailed maps of the abundance of our focal species, and will eventually be able to post real-time forecasts of bloom timing.&lt;/p&gt;
+
+&lt;h2 id=&#34;how-can-i-help&#34;&gt;How can I help?&lt;/h2&gt;
+
+&lt;p&gt;In early 2018, we will start recruiting a small army of volunteers to help us train computers to recognize wildflowers. We are still working out the details here, but we will likely use the &lt;a href=&#34;https://www.zooniverse.org/&#34; target=&#34;_blank&#34;&gt;Zooniverse&lt;/a&gt; platform, which makes it easy and fun to classify photographs. If you&amp;rsquo;d rather donate your money than your time, we would love to get contributions via our project page on &lt;a href=&#34;https://experiment.com/&#34; target=&#34;_blank&#34;&gt;experiment.com&lt;/a&gt;. Regardless, you can help spread the word about BloomFinder by liking our page on &lt;a href=&#34;https://www.facebook.com/BloomFinder&#34; target=&#34;_blank&#34;&gt;Facebook&lt;/a&gt; and following us on &lt;a href=&#34;https://twitter.com/BloomFinder&#34; target=&#34;_blank&#34;&gt;Twitter&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Focal Species</title>
+      <link>https://www.bloomfinder.org/project/species/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.bloomfinder.org/project/species/</guid>
+      <description>
+
+&lt;h2 id=&#34;criteria-for-selecting-focal-species&#34;&gt;Criteria for selecting focal species.&lt;/h2&gt;
+
+&lt;p&gt;Western North America hosts an astonishing variety of flowering plants (probably more than 8,000 species!). Unfortunately, most of them are too rare to show up in photographs that people upload to social media. BloomFinder is tracking the blooms of plant species that meet a few criteria:&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;They are native to Western North America.&lt;/li&gt;
+&lt;li&gt;They inhabit subalpine and alpine meadow ecosystems. Desert plants need not apply.&lt;/li&gt;
+&lt;li&gt;They are common enough to have been recorded in at least three of our 38 field sites.&lt;/li&gt;
+&lt;li&gt;They have flowers that are large enough to recognize in a photograph taken at least 5 feet away.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h2 id=&#34;species-list&#34;&gt;Species list&lt;/h2&gt;
+
+&lt;p&gt;Here is our preliminary species list as of December 2017. We will probably drop a few species where we can&amp;rsquo;t find enough observations, and we might add a few along the way.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.google.com/search?q=Aconitum+columbianum&#34; target=&#34;_blank&#34;&gt;Aconitum columbianum&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.google.com/search?q=Agastache+urticifolia&#34; target=&#34;_blank&#34;&gt;Agastache urticifolia&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.google.com/search?q=Agastache+pallidiflora&#34; target=&#34;_blank&#34;&gt;Agastache pallidiflora&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.google.com/search?q=Ageratina+herbacea&#34; target=&#34;_blank&#34;&gt;Ageratina herbacea&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.google.com/search?q=Ageratina+occidentalis&#34; target=&#34;_blank&#34;&gt;Ageratina occidentalis&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.google.com/search?q=Agoseris+aurantiaca&#34; target=&#34;_blank&#34;&gt;Agoseris aurantiaca&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.google.com/search?q=Agoseris+glauca&#34; target=&#34;_blank&#34;&gt;Agoseris glauca&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.google.com/search?q=Agoseris+grandiflora&#34; target=&#34;_blank&#34;&gt;Agoseris grandiflora&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.google.com/search?q=Agoseris+monticola&#34; target=&#34;_blank&#34;&gt;Agoseris monticola&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.google.com/search?q=Agrimonia+striata&#34; target=&#34;_blank&#34;&gt;Agrimonia striata&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.google.com/search?q=Amauriopsis+dissecta&#34; target=&#34;_blank&#34;&gt;Amauriopsis dissecta&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.google.com/search?q=Amelanchier+alnifolia&#34; target=&#34;_blank&#34;&gt;Amelanchier alnifolia&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.google.com/search?q=Amelanchier+utahensis&#34; target=&#34;_blank&#34;&gt;Amelanchier utahensis&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.google.com/search?q=Anaphalis+margaritacea&#34; target=&#34;_blank&#34;&gt;Anaphalis margaritacea&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.google.com/search?q=Anemone+drummondii&#34; target=&#34;_blank&#34;&gt;Anemone drummondii&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.google.com/search?q=Anemone+multifida&#34; target=&#34;_blank&#34;&gt;Anemone multifida&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.google.com/search?q=Anemone+occidentalis&#34; target=&#34;_blank&#34;&gt;Anemone occidentalis&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.google.com/search?q=Anemone+oregana&#34; target=&#34;_blank&#34;&gt;Anemone oregana&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.google.com/search?q=Angelica+arguta&#34; target=&#34;_blank&#34;&gt;Angelica arguta&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.google.com/search?q=Angelica+breweri&#34; target=&#34;_blank&#34;&gt;Angelica breweri&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.google.com/search?q=Angelica+grayi&#34; target=&#34;_blank&#34;&gt;Angelica grayi&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.google.com/search?q=Antennaria+media&#34; target=&#34;_blank&#34;&gt;Antennaria media&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.google.com/search?q=Antennaria+parvifolia&#34; target=&#34;_blank&#34;&gt;Antennaria parvifolia&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.google.com/search?q=Antennaria+rosea&#34; target=&#34;_blank&#34;&gt;Antennaria rosea&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.google.com/search?q=Anticlea+elegans&#34; target=&#34;_blank&#34;&gt;Anticlea elegans&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.google.com/search?q=Apocynum+androsaemifolium&#34; target=&#34;_blank&#34;&gt;Apocynum androsaemifolium&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.google.com/search?q=Aquilegia+caerulea&#34; target=&#34;_blank&#34;&gt;Aquilegia caerulea&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.google.com/search?q=Aquilegia+coerulea&#34; target=&#34;_blank&#34;&gt;Aquilegia coerulea&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.google.com/search?q=Aquilegia+flavescens&#34; target=&#34;_blank&#34;&gt;Aquilegia flavescens&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.google.com/search?q=Aquilegia+formosa&#34; target=&#34;_blank&#34;&gt;Aquilegia formosa&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.google.com/search?q=Aquilegia+pubescens&#34; target=&#34;_blank&#34;&gt;Aquilegia pubescens&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.google.com/search?q=Arctostaphylos+nevadensis&#34; target=&#34;_blank&#34;&gt;Arctostaphylos nevadensis&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.google.com/search?q=Arctostaphylos+patula&#34; target=&#34;_blank&#34;&gt;Arctostaphylos patula&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.google.com/search?q=Arctostaphylos+pungens&#34; target=&#34;_blank&#34;&gt;Arctostaphylos pungens&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.google.com/search?q=Arnica+cordifolia&#34; target=&#34;_blank&#34;&gt;Arnica cordifolia&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.google.com/search?q=Arnica+latifolia&#34; target=&#34;_blank&#34;&gt;Arnica latifolia&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.google.com/search?q=Arnica+mollis&#34; target=&#34;_blank&#34;&gt;Arnica mollis&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.google.com/search?q=Arnica+nevadensis&#34; target=&#34;_blank&#34;&gt;Arnica nevadensis&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.google.com/search?q=Aruncus+dioicus&#34; target=&#34;_blank&#34;&gt;Aruncus dioicus&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.google.com/search?q=Asclepias+hypoleuca&#34; target=&#34;_blank&#34;&gt;Asclepias hypoleuca&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.google.com/search?q=Asclepias+tuberosa&#34; target=&#34;_blank&#34;&gt;Asclepias tuberosa&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.google.com/search?q=Astragalus+bolanderi&#34; target=&#34;_blank&#34;&gt;Astragalus bolanderi&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.google.com/search?q=Astragalus+calycosus&#34; target=&#34;_blank&#34;&gt;Astragalus calycosus&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.google.com/search?q=Astragalus+kentrophyta&#34; target=&#34;_blank&#34;&gt;Astragalus kentrophyta&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.google.com/search?q=Balsamorhiza+hookeri&#34; target=&#34;_blank&#34;&gt;Balsamorhiza hookeri&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.google.com/search?q=Balsamorhiza+sagittata&#34; target=&#34;_blank&#34;&gt;Balsamorhiza sagittata&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.google.com/search?q=Barbarea+orthoceras&#34; target=&#34;_blank&#34;&gt;Barbarea orthoceras&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.google.com/search?q=Bidens+cernua&#34; target=&#34;_blank&#34;&gt;Bidens cernua&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.google.com/search?q=Bistorta+bistortoides&#34; target=&#34;_blank&#34;&gt;Bistorta bistortoides&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.google.com/search?q=Boechera+breweri&#34; target=&#34;_blank&#34;&gt;Boechera breweri&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.google.com/search?q=Boechera+holboellii&#34; target=&#34;_blank&#34;&gt;Boechera holboellii&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.google.com/search?q=Boechera+lemmonii&#34; target=&#34;_blank&#34;&gt;Boechera lemmonii&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.google.com/search?q=Boechera+lyallii&#34; target=&#34;_blank&#34;&gt;Boechera lyallii&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.google.com/search?q=Boechera+retrofracta&#34; target=&#34;_blank&#34;&gt;Boechera retrofracta&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.google.com/search?q=Boechera+stricta&#34; target=&#34;_blank&#34;&gt;Boechera stricta&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.google.com/search?q=Brickellia+grandiflora&#34; target=&#34;_blank&#34;&gt;Brickellia grandiflora&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.google.com/search?q=Calochortus+coeruleus&#34; target=&#34;_blank&#34;&gt;Calochortus coeruleus&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.google.com/search?q=Calochortus+eurycarpus&#34; target=&#34;_blank&#34;&gt;Calochortus eurycarpus&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.google.com/search?q=Calochortus+leichtlinii&#34; target=&#34;_blank&#34;&gt;Calochortus leichtlinii&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.google.com/search?q=Calochortus+gunnisonii&#34; target=&#34;_blank&#34;&gt;Calochortus gunnisonii&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.google.com/search?q=Calochortus+nuttallii&#34; target=&#34;_blank&#34;&gt;Calochortus nuttallii&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.google.com/search?q=Calochortus+uniflorus&#34; target=&#34;_blank&#34;&gt;Calochortus uniflorus&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.google.com/search?q=Caltha+leptosepala&#34; target=&#34;_blank&#34;&gt;Caltha leptosepala&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.google.com/search?q=Campanula+rotundifolia&#34; target=&#34;_blank&#34;&gt;Campanula rotundifolia&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.google.com/search?q=Campanula+scabrella&#34; target=&#34;_blank&#34;&gt;Campanula scabrella&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.google.com/search?q=Cardamine+bellidifolia&#34; target=&#34;_blank&#34;&gt;Cardamine bellidifolia&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.google.com/search?q=Cardamine+cordifolia&#34; target=&#34;_blank&#34;&gt;Cardamine cordifolia&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.google.com/search?q=Carphochaete+bigelovii&#34; target=&#34;_blank&#34;&gt;Carphochaete bigelovii&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.google.com/search?q=Cassiope+mertensiana&#34; target=&#34;_blank&#34;&gt;Cassiope mertensiana&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.google.com/search?q=Castilleja+applegatei&#34; target=&#34;_blank&#34;&gt;Castilleja applegatei&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.google.com/search?q=Castilleja+arachnoidea&#34; target=&#34;_blank&#34;&gt;Castilleja arachnoidea&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.google.com/search?q=Castilleja+austromontana&#34; target=&#34;_blank&#34;&gt;Castilleja austromontana&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.google.com/search?q=Castilleja+chromosa&#34; target=&#34;_blank&#34;&gt;Castilleja chromosa&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.google.com/search?q=Castilleja+lemmonii&#34; target=&#34;_blank&#34;&gt;Castilleja lemmonii&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.google.com/search?q=Castilleja+miniata&#34; target=&#34;_blank&#34;&gt;Castilleja miniata&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.google.com/search?q=Castilleja+parviflora&#34; target=&#34;_blank&#34;&gt;Castilleja parviflora&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.google.com/search?q=Castilleja+rhexiifolia&#34; target=&#34;_blank&#34;&gt;Castilleja rhexiifolia&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.google.com/search?q=Castilleja+sulphurea&#34; target=&#34;_blank&#34;&gt;Castilleja sulphurea&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.google.com/search?q=Ceanothus+cordulatus&#34; target=&#34;_blank&#34;&gt;Ceanothus cordulatus&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.google.com/search?q=Ceanothus+leucodermis&#34; target=&#34;_blank&#34;&gt;Ceanothus leucodermis&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.google.com/search?q=Ceanothus+fendleri&#34; target=&#34;_blank&#34;&gt;Ceanothus fendleri&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.google.com/search?q=Ceanothus+prostratus&#34; target=&#34;_blank&#34;&gt;Ceanothus prostratus&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.google.com/search?q=Ceanothus+velutinus&#34; target=&#34;_blank&#34;&gt;Ceanothus velutinus&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.google.com/search?q=Chaenactis+douglasii&#34; target=&#34;_blank&#34;&gt;Chaenactis douglasii&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.google.com/search?q=Chamaebatiaria+millefolium&#34; target=&#34;_blank&#34;&gt;Chamaebatiaria millefolium&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.google.com/search?q=Chamerion+angustifolium&#34; target=&#34;_blank&#34;&gt;Chamerion angustifolium&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.google.com/search?q=Camassia+quamash&#34; target=&#34;_blank&#34;&gt;Camassia quamash&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.google.com/search?q=Chrysothamnus+viscidiflorus&#34; target=&#34;_blank&#34;&gt;Chrysothamnus viscidiflorus&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.google.com/search?q=Cirsium+arizonicum&#34; target=&#34;_blank&#34;&gt;Cirsium arizonicum&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.google.com/search?q=Cirsium+hookerianum&#34; target=&#34;_blank&#34;&gt;Cirsium hookerianum&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.google.com/search?q=Cirsium+scariosum&#34; target=&#34;_blank&#34;&gt;Cirsium scariosum&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.google.com/search?q=Cirsium+wheeleri&#34; target=&#34;_blank&#34;&gt;Cirsium wheeleri&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.google.com/search?q=Cistanthe+umbellata&#34; target=&#34;_blank&#34;&gt;Cistanthe umbellata&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.google.com/search?q=Claytonia+lanceolata&#34; target=&#34;_blank&#34;&gt;Claytonia lanceolata&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.google.com/search?q=Claytonia+cordifolia&#34; target=&#34;_blank&#34;&gt;Claytonia cordifolia&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.google.com/search?q=Claytonia+megarhiza&#34; target=&#34;_blank&#34;&gt;Claytonia megarhiza&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.google.com/search?q=Clematis+columbiana&#34; target=&#34;_blank&#34;&gt;Clematis columbiana&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.google.com/search?q=Clematis+hirsutissima&#34; target=&#34;_blank&#34;&gt;Clematis hirsutissima&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.google.com/search?q=Collinsia+torreyi&#34; target=&#34;_blank&#34;&gt;Collinsia torreyi&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.google.com/search?q=Collomia+linearis&#34; target=&#34;_blank&#34;&gt;Collomia linearis&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.google.com/search?q=Comandra+umbellata&#34; target=&#34;_blank&#34;&gt;Comandra umbellata&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.google.com/search?q=Conioselinum+scopulorum&#34; target=&#34;_blank&#34;&gt;Conioselinum scopulorum&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.google.com/search?q=Cornus+sericea&#34; target=&#34;_blank&#34;&gt;Cornus sericea&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.google.com/search?q=Corydalis+aurea&#34; target=&#34;_blank&#34;&gt;Corydalis aurea&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.google.com/search?q=Corydalis+caseana&#34; target=&#34;_blank&#34;&gt;Corydalis caseana&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.google.com/search?q=Crepis+pleurocarpa&#34; target=&#34;_blank&#34;&gt;Crepis pleurocarpa&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.google.com/search?q=Cryptantha+nubigena&#34; target=&#34;_blank&#34;&gt;Cryptantha nubigena&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.google.com/search?q=Cryptantha+sobolifera&#34; target=&#34;_blank&#34;&gt;Cryptantha sobolifera&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.google.com/search?q=Cymopterus+hendersonii&#34; target=&#34;_blank&#34;&gt;Cymopterus hendersonii&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.google.com/search?q=Dalea+albiflora&#34; target=&#34;_blank&#34;&gt;Dalea albiflora&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.google.com/search?q=Darlingtonia+californica&#34; target=&#34;_blank&#34;&gt;Darlingtonia californica&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.google.com/search?q=Dasiphora+fruticosa&#34; target=&#34;_blank&#34;&gt;Dasiphora fruticosa&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.google.com/search?q=Delphinium+barbeyi&#34; target=&#34;_blank&#34;&gt;Delphinium barbeyi&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.google.com/search?q=Delphinium+menziesii&#34; target=&#34;_blank&#34;&gt;Delphinium menziesii&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.google.com/search?q=Delphinium+nuttallianum&#34; target=&#34;_blank&#34;&gt;Delphinium nuttallianum&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.google.com/search?q=Delphinium+polycladon&#34; target=&#34;_blank&#34;&gt;Delphinium polycladon&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.google.com/search?q=Dicentra+formosa&#34; target=&#34;_blank&#34;&gt;Dicentra formosa&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.google.com/search?q=Dieteria+bigelovii&#34; target=&#34;_blank&#34;&gt;Dieteria bigelovii&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.google.com/search?q=Dodecatheon+alpinum&#34; target=&#34;_blank&#34;&gt;Dodecatheon alpinum&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.google.com/search?q=Dodecatheon+jeffreyi&#34; target=&#34;_blank&#34;&gt;Dodecatheon jeffreyi&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.google.com/search?q=Dodecatheon+hendersonii&#34; target=&#34;_blank&#34;&gt;Dodecatheon hendersonii&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.google.com/search?q=Dodecatheon+pulchellum&#34; target=&#34;_blank&#34;&gt;Dodecatheon pulchellum&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.google.com/search?q=Dodecatheon+redolens&#34; target=&#34;_blank&#34;&gt;Dodecatheon redolens&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.google.com/search?q=Drymocallis+glandulosa&#34; target=&#34;_blank&#34;&gt;Drymocallis glandulosa&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.google.com/search?q=Drymocallis+lactea&#34; target=&#34;_blank&#34;&gt;Drymocallis lactea&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.google.com/search?q=Epilobium+canum&#34; target=&#34;_blank&#34;&gt;Epilobium canum&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.google.com/search?q=Epilobium+latifolium&#34; target=&#34;_blank&#34;&gt;Epilobium latifolium&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.google.com/search?q=Epilobium+obcordatum&#34; target=&#34;_blank&#34;&gt;Epilobium obcordatum&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.google.com/search?q=Eremogone+congesta&#34; target=&#34;_blank&#34;&gt;Eremogone congesta&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.google.com/search?q=Eremogone+fendleri&#34; target=&#34;_blank&#34;&gt;Eremogone fendleri&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.google.com/search?q=Eremogone+pumicola&#34; target=&#34;_blank&#34;&gt;Eremogone pumicola&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.google.com/search?q=Eremogone+kingii&#34; target=&#34;_blank&#34;&gt;Eremogone kingii&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.google.com/search?q=Ericameria+bloomeri&#34; target=&#34;_blank&#34;&gt;Ericameria bloomeri&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.google.com/search?q=Ericameria+discoidea&#34; target=&#34;_blank&#34;&gt;Ericameria discoidea&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.google.com/search?q=Ericameria+nauseosa&#34; target=&#34;_blank&#34;&gt;Ericameria nauseosa&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.google.com/search?q=Ericameria+suffruticosa&#34; target=&#34;_blank&#34;&gt;Ericameria suffruticosa&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.google.com/search?q=Erigeron+compositus&#34; target=&#34;_blank&#34;&gt;Erigeron compositus&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.google.com/search?q=Erigeron+coulteri&#34; target=&#34;_blank&#34;&gt;Erigeron coulteri&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.google.com/search?q=Erigeron+glacialis&#34; target=&#34;_blank&#34;&gt;Erigeron glacialis&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.google.com/search?q=Erigeron+grandiflorus&#34; target=&#34;_blank&#34;&gt;Erigeron grandiflorus&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.google.com/search?q=Erigeron+peregrinus&#34; target=&#34;_blank&#34;&gt;Erigeron peregrinus&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.google.com/search?q=Erigeron+speciosus&#34; target=&#34;_blank&#34;&gt;Erigeron speciosus&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.google.com/search?q=Erigeron+subtrinervis&#34; target=&#34;_blank&#34;&gt;Erigeron subtrinervis&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.google.com/search?q=Eriogonum+incanum&#34; target=&#34;_blank&#34;&gt;Eriogonum incanum&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.google.com/search?q=Eriogonum+ovalifolium&#34; target=&#34;_blank&#34;&gt;Eriogonum ovalifolium&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.google.com/search?q=Eriogonum+umbellatum&#34; target=&#34;_blank&#34;&gt;Eriogonum umbellatum&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.google.com/search?q=Eriophyllum+lanatum&#34; target=&#34;_blank&#34;&gt;Eriophyllum lanatum&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.google.com/search?q=Erysimum+capitatum&#34; target=&#34;_blank&#34;&gt;Erysimum capitatum&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.google.com/search?q=Erythronium+grandiflorum&#34; target=&#34;_blank&#34;&gt;Erythronium grandiflorum&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.google.com/search?q=Erythronium+montanum&#34; target=&#34;_blank&#34;&gt;Erythronium montanum&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.google.com/search?q=Erythronium+purpurascens&#34; target=&#34;_blank&#34;&gt;Erythronium purpurascens&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.google.com/search?q=Eucephalus+ledophyllus&#34; target=&#34;_blank&#34;&gt;Eucephalus ledophyllus&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.google.com/search?q=Eurybia+integrifolia&#34; target=&#34;_blank&#34;&gt;Eurybia integrifolia&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.google.com/search?q=Fallugia+paradoxa&#34; target=&#34;_blank&#34;&gt;Fallugia paradoxa&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.google.com/search?q=Fragaria+virginiana&#34; target=&#34;_blank&#34;&gt;Fragaria virginiana&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.google.com/search?q=Frasera+speciosa&#34; target=&#34;_blank&#34;&gt;Frasera speciosa&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.google.com/search?q=Gaillardia+aristata&#34; target=&#34;_blank&#34;&gt;Gaillardia aristata&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.google.com/search?q=Galium+boreale&#34; target=&#34;_blank&#34;&gt;Galium boreale&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.google.com/search?q=Gentiana+affinis&#34; target=&#34;_blank&#34;&gt;Gentiana affinis&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.google.com/search?q=Gentiana+calycosa&#34; target=&#34;_blank&#34;&gt;Gentiana calycosa&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.google.com/search?q=Gentiana+newberryi&#34; target=&#34;_blank&#34;&gt;Gentiana newberryi&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.google.com/search?q=Gentianella+amarella&#34; target=&#34;_blank&#34;&gt;Gentianella amarella&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.google.com/search?q=Gentianopsis+holopetala&#34; target=&#34;_blank&#34;&gt;Gentianopsis holopetala&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.google.com/search?q=Gentianopsis+simplex&#34; target=&#34;_blank&#34;&gt;Gentianopsis simplex&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.google.com/search?q=Gentianopsis+thermalis&#34; target=&#34;_blank&#34;&gt;Gentianopsis thermalis&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.google.com/search?q=Geranium+caespitosum&#34; target=&#34;_blank&#34;&gt;Geranium caespitosum&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.google.com/search?q=Geranium+richardsonii&#34; target=&#34;_blank&#34;&gt;Geranium richardsonii&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.google.com/search?q=Geranium+viscosissimum&#34; target=&#34;_blank&#34;&gt;Geranium viscosissimum&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.google.com/search?q=Geum+macrophyllum&#34; target=&#34;_blank&#34;&gt;Geum macrophyllum&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.google.com/search?q=Geum+rossii&#34; target=&#34;_blank&#34;&gt;Geum rossii&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.google.com/search?q=Geum+triflorum&#34; target=&#34;_blank&#34;&gt;Geum triflorum&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.google.com/search?q=Glandularia+bipinnatifida&#34; target=&#34;_blank&#34;&gt;Glandularia bipinnatifida&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.google.com/search?q=Gutierrezia+sarothrae&#34; target=&#34;_blank&#34;&gt;Gutierrezia sarothrae&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.google.com/search?q=Hackelia+floribunda&#34; target=&#34;_blank&#34;&gt;Hackelia floribunda&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.google.com/search?q=Hackelia+micrantha&#34; target=&#34;_blank&#34;&gt;Hackelia micrantha&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.google.com/search?q=Hackelia+nervosa&#34; target=&#34;_blank&#34;&gt;Hackelia nervosa&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.google.com/search?q=Hazardia+whitneyi&#34; target=&#34;_blank&#34;&gt;Hazardia whitneyi&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.google.com/search?q=Hedeoma+hyssopifolia&#34; target=&#34;_blank&#34;&gt;Hedeoma hyssopifolia&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.google.com/search?q=Helenium+bigelovii&#34; target=&#34;_blank&#34;&gt;Helenium bigelovii&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.google.com/search?q=Helianthella+parryi&#34; target=&#34;_blank&#34;&gt;Helianthella parryi&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.google.com/search?q=Helianthella+quinquenervis&#34; target=&#34;_blank&#34;&gt;Helianthella quinquenervis&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.google.com/search?q=Heliomeris+multiflora&#34; target=&#34;_blank&#34;&gt;Heliomeris multiflora&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.google.com/search?q=Heracleum+lanatum&#34; target=&#34;_blank&#34;&gt;Heracleum lanatum&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.google.com/search?q=Heracleum+maximum&#34; target=&#34;_blank&#34;&gt;Heracleum maximum&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.google.com/search?q=Heterotheca+villosa&#34; target=&#34;_blank&#34;&gt;Heterotheca villosa&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.google.com/search?q=Hieracium+albiflorum&#34; target=&#34;_blank&#34;&gt;Hieracium albiflorum&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.google.com/search?q=Hieracium+triste&#34; target=&#34;_blank&#34;&gt;Hieracium triste&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.google.com/search?q=Hulsea+algida&#34; target=&#34;_blank&#34;&gt;Hulsea algida&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.google.com/search?q=Hulsea+nana&#34; target=&#34;_blank&#34;&gt;Hulsea nana&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.google.com/search?q=Hydrophyllum+capitatum&#34; target=&#34;_blank&#34;&gt;Hydrophyllum capitatum&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.google.com/search?q=Hydrophyllum+occidentale&#34; target=&#34;_blank&#34;&gt;Hydrophyllum occidentale&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.google.com/search?q=Hymenoxys+grandiflora&#34; target=&#34;_blank&#34;&gt;Hymenoxys grandiflora&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.google.com/search?q=Hymenoxys+hoopesii&#34; target=&#34;_blank&#34;&gt;Hymenoxys hoopesii&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.google.com/search?q=Hymenoxys+richardsonii&#34; target=&#34;_blank&#34;&gt;Hymenoxys richardsonii&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.google.com/search?q=Hypericum+scouleri&#34; target=&#34;_blank&#34;&gt;Hypericum scouleri&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.google.com/search?q=Ipomopsis+aggregata&#34; target=&#34;_blank&#34;&gt;Ipomopsis aggregata&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.google.com/search?q=Iris+missouriensis&#34; target=&#34;_blank&#34;&gt;Iris missouriensis&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.google.com/search?q=Ivesia+gordonii&#34; target=&#34;_blank&#34;&gt;Ivesia gordonii&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.google.com/search?q=Ivesia+lycopodioides&#34; target=&#34;_blank&#34;&gt;Ivesia lycopodioides&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.google.com/search?q=Ivesia+santolinoides&#34; target=&#34;_blank&#34;&gt;Ivesia santolinoides&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.google.com/search?q=Jamesia+americana&#34; target=&#34;_blank&#34;&gt;Jamesia americana&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.google.com/search?q=Kalmia+microphylla&#34; target=&#34;_blank&#34;&gt;Kalmia microphylla&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.google.com/search?q=Lathyrus+leucanthus&#34; target=&#34;_blank&#34;&gt;Lathyrus leucanthus&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.google.com/search?q=Lessingia+leptoclada&#34; target=&#34;_blank&#34;&gt;Lessingia leptoclada&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.google.com/search?q=Ledum+glandulosum&#34; target=&#34;_blank&#34;&gt;Ledum glandulosum&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.google.com/search?q=Leucanthemum+vulgare&#34; target=&#34;_blank&#34;&gt;Leucanthemum vulgare&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.google.com/search?q=Ligusticum+grayi&#34; target=&#34;_blank&#34;&gt;Ligusticum grayi&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.google.com/search?q=Ligusticum+porteri&#34; target=&#34;_blank&#34;&gt;Ligusticum porteri&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.google.com/search?q=Ligusticum+tenuifolium&#34; target=&#34;_blank&#34;&gt;Ligusticum tenuifolium&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.google.com/search?q=Lilium+columbianum&#34; target=&#34;_blank&#34;&gt;Lilium columbianum&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.google.com/search?q=Lilium+washingtonianum&#34; target=&#34;_blank&#34;&gt;Lilium washingtonianum&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.google.com/search?q=Linanthus+pungens&#34; target=&#34;_blank&#34;&gt;Linanthus pungens&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.google.com/search?q=Linaria+vulgaris&#34; target=&#34;_blank&#34;&gt;Linaria vulgaris&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.google.com/search?q=Linum+lewisii&#34; target=&#34;_blank&#34;&gt;Linum lewisii&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.google.com/search?q=Lithospermum+multiflorum&#34; target=&#34;_blank&#34;&gt;Lithospermum multiflorum&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.google.com/search?q=Lomatium+dissectum&#34; target=&#34;_blank&#34;&gt;Lomatium dissectum&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.google.com/search?q=Lotus+nevadensis&#34; target=&#34;_blank&#34;&gt;Lotus nevadensis&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.google.com/search?q=Luetkea+pectinata&#34; target=&#34;_blank&#34;&gt;Luetkea pectinata&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.google.com/search?q=Lupinus+arcticus&#34; target=&#34;_blank&#34;&gt;Lupinus arcticus&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.google.com/search?q=Lupinus+albicaulis&#34; target=&#34;_blank&#34;&gt;Lupinus albicaulis&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.google.com/search?q=Lupinus+argenteus&#34; target=&#34;_blank&#34;&gt;Lupinus argenteus&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.google.com/search?q=Lupinus+breweri&#34; target=&#34;_blank&#34;&gt;Lupinus breweri&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.google.com/search?q=Lupinus+caudatus&#34; target=&#34;_blank&#34;&gt;Lupinus caudatus&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.google.com/search?q=Lupinus+croceus&#34; target=&#34;_blank&#34;&gt;Lupinus croceus&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.google.com/search?q=Lupinus+latifolius&#34; target=&#34;_blank&#34;&gt;Lupinus latifolius&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.google.com/search?q=Lupinus+polyphyllus&#34; target=&#34;_blank&#34;&gt;Lupinus polyphyllus&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.google.com/search?q=Lupinus+sellulus&#34; target=&#34;_blank&#34;&gt;Lupinus sellulus&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.google.com/search?q=Lupinus+sericeus&#34; target=&#34;_blank&#34;&gt;Lupinus sericeus&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.google.com/search?q=Maianthemum+racemosum&#34; target=&#34;_blank&#34;&gt;Maianthemum racemosum&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.google.com/search?q=Maianthemum+stellatum&#34; target=&#34;_blank&#34;&gt;Maianthemum stellatum&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.google.com/search?q=Mentzelia+laevicaulis&#34; target=&#34;_blank&#34;&gt;Mentzelia laevicaulis&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.google.com/search?q=Mertensia+arizonica&#34; target=&#34;_blank&#34;&gt;Mertensia arizonica&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.google.com/search?q=Mertensia+ciliata&#34; target=&#34;_blank&#34;&gt;Mertensia ciliata&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.google.com/search?q=Mertensia+franciscana&#34; target=&#34;_blank&#34;&gt;Mertensia franciscana&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.google.com/search?q=Mertensia+lanceolata&#34; target=&#34;_blank&#34;&gt;Mertensia lanceolata&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.google.com/search?q=Mertensia+paniculata&#34; target=&#34;_blank&#34;&gt;Mertensia paniculata&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.google.com/search?q=Micranthes+tolmiei&#34; target=&#34;_blank&#34;&gt;Micranthes tolmiei&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.google.com/search?q=Mimulus+cardinalis&#34; target=&#34;_blank&#34;&gt;Mimulus cardinalis&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.google.com/search?q=Mimulus+guttatus&#34; target=&#34;_blank&#34;&gt;Mimulus guttatus&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.google.com/search?q=Mimulus+lewisii&#34; target=&#34;_blank&#34;&gt;Mimulus lewisii&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.google.com/search?q=Mimulus+moschatus&#34; target=&#34;_blank&#34;&gt;Mimulus moschatus&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.google.com/search?q=Mimulus+primuloides&#34; target=&#34;_blank&#34;&gt;Mimulus primuloides&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.google.com/search?q=Mimulus+tilingii&#34; target=&#34;_blank&#34;&gt;Mimulus tilingii&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.google.com/search?q=Minuartia+nuttallii&#34; target=&#34;_blank&#34;&gt;Minuartia nuttallii&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.google.com/search?q=Minuartia+rubella&#34; target=&#34;_blank&#34;&gt;Minuartia rubella&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.google.com/search?q=Minuartia+obtusiloba&#34; target=&#34;_blank&#34;&gt;Minuartia obtusiloba&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.google.com/search?q=Mirabilis+albida&#34; target=&#34;_blank&#34;&gt;Mirabilis albida&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.google.com/search?q=Mirabilis+linearis&#34; target=&#34;_blank&#34;&gt;Mirabilis linearis&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.google.com/search?q=Monarda+fistulosa&#34; target=&#34;_blank&#34;&gt;Monarda fistulosa&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.google.com/search?q=Monarda+citriodora&#34; target=&#34;_blank&#34;&gt;Monarda citriodora&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.google.com/search?q=Monardella+odoratissima&#34; target=&#34;_blank&#34;&gt;Monardella odoratissima&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.google.com/search?q=Navarretia+divaricata&#34; target=&#34;_blank&#34;&gt;Navarretia divaricata&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.google.com/search?q=Noccaea+fendleri&#34; target=&#34;_blank&#34;&gt;Noccaea fendleri&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.google.com/search?q=Nothocalais+alpestris&#34; target=&#34;_blank&#34;&gt;Nothocalais alpestris&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.google.com/search?q=Nothochelone+nemorosa&#34; target=&#34;_blank&#34;&gt;Nothochelone nemorosa&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.google.com/search?q=Oplopanax+horridus&#34; target=&#34;_blank&#34;&gt;Oplopanax horridus&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.google.com/search?q=Oreochrysum+parryi&#34; target=&#34;_blank&#34;&gt;Oreochrysum parryi&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.google.com/search?q=Oreostemma+alpigenum&#34; target=&#34;_blank&#34;&gt;Oreostemma alpigenum&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.google.com/search?q=Orthocarpus+cuspidatus&#34; target=&#34;_blank&#34;&gt;Orthocarpus cuspidatus&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.google.com/search?q=Orthocarpus+luteus&#34; target=&#34;_blank&#34;&gt;Orthocarpus luteus&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.google.com/search?q=Oxypolis+fendleri&#34; target=&#34;_blank&#34;&gt;Oxypolis fendleri&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.google.com/search?q=Oxyria+digyna&#34; target=&#34;_blank&#34;&gt;Oxyria digyna&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.google.com/search?q=Oxytropis+lambertii&#34; target=&#34;_blank&#34;&gt;Oxytropis lambertii&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.google.com/search?q=Oxytropis+parryi&#34; target=&#34;_blank&#34;&gt;Oxytropis parryi&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.google.com/search?q=Packera+cana&#34; target=&#34;_blank&#34;&gt;Packera cana&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.google.com/search?q=Packera+fendleri&#34; target=&#34;_blank&#34;&gt;Packera fendleri&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.google.com/search?q=Packera+multilobata&#34; target=&#34;_blank&#34;&gt;Packera multilobata&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.google.com/search?q=Packera+neomexicana&#34; target=&#34;_blank&#34;&gt;Packera neomexicana&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.google.com/search?q=Parnassia+fimbriata&#34; target=&#34;_blank&#34;&gt;Parnassia fimbriata&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.google.com/search?q=Pedicularis+attollens&#34; target=&#34;_blank&#34;&gt;Pedicularis attollens&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.google.com/search?q=Pedicularis+bracteosa&#34; target=&#34;_blank&#34;&gt;Pedicularis bracteosa&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.google.com/search?q=Pedicularis+contorta&#34; target=&#34;_blank&#34;&gt;Pedicularis contorta&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.google.com/search?q=Pedicularis+groenlandica&#34; target=&#34;_blank&#34;&gt;Pedicularis groenlandica&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.google.com/search?q=Pedicularis+parryi&#34; target=&#34;_blank&#34;&gt;Pedicularis parryi&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.google.com/search?q=Pedicularis+racemosa&#34; target=&#34;_blank&#34;&gt;Pedicularis racemosa&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.google.com/search?q=Penstemon+davidsonii&#34; target=&#34;_blank&#34;&gt;Penstemon davidsonii&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.google.com/search?q=Penstemon+attenuatus&#34; target=&#34;_blank&#34;&gt;Penstemon attenuatus&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.google.com/search?q=Penstemon+barbatus&#34; target=&#34;_blank&#34;&gt;Penstemon barbatus&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.google.com/search?q=Penstemon+cyananthus&#34; target=&#34;_blank&#34;&gt;Penstemon cyananthus&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.google.com/search?q=Penstemon+davidsonii&#34; target=&#34;_blank&#34;&gt;Penstemon davidsonii&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.google.com/search?q=Penstemon+deustus&#34; target=&#34;_blank&#34;&gt;Penstemon deustus&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.google.com/search?q=Penstemon+eatonii&#34; target=&#34;_blank&#34;&gt;Penstemon eatonii&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.google.com/search?q=Penstemon+heterodoxus&#34; target=&#34;_blank&#34;&gt;Penstemon heterodoxus&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.google.com/search?q=Penstemon+grinnellii&#34; target=&#34;_blank&#34;&gt;Penstemon grinnellii&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.google.com/search?q=Penstemon+newberryi&#34; target=&#34;_blank&#34;&gt;Penstemon newberryi&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.google.com/search?q=Penstemon+procerus&#34; target=&#34;_blank&#34;&gt;Penstemon procerus&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.google.com/search?q=Penstemon+rostriflorus&#34; target=&#34;_blank&#34;&gt;Penstemon rostriflorus&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.google.com/search?q=Penstemon+rupicola&#34; target=&#34;_blank&#34;&gt;Penstemon rupicola&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.google.com/search?q=Penstemon+speciosus&#34; target=&#34;_blank&#34;&gt;Penstemon speciosus&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.google.com/search?q=Penstemon+whippleanus&#34; target=&#34;_blank&#34;&gt;Penstemon whippleanus&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.google.com/search?q=Pericome+caudata&#34; target=&#34;_blank&#34;&gt;Pericome caudata&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.google.com/search?q=Perideridia+parishii&#34; target=&#34;_blank&#34;&gt;Perideridia parishii&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.google.com/search?q=Persicaria+vivipara&#34; target=&#34;_blank&#34;&gt;Persicaria vivipara&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.google.com/search?q=Petradoria+pumila&#34; target=&#34;_blank&#34;&gt;Petradoria pumila&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.google.com/search?q=Phacelia+corymbosa&#34; target=&#34;_blank&#34;&gt;Phacelia corymbosa&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.google.com/search?q=Phacelia+heterophylla&#34; target=&#34;_blank&#34;&gt;Phacelia heterophylla&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.google.com/search?q=Phacelia+hydrophylloides&#34; target=&#34;_blank&#34;&gt;Phacelia hydrophylloides&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.google.com/search?q=Phacelia+mutabilis&#34; target=&#34;_blank&#34;&gt;Phacelia mutabilis&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.google.com/search?q=Phacelia+sericea&#34; target=&#34;_blank&#34;&gt;Phacelia sericea&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.google.com/search?q=Philadelphus+microphyllus&#34; target=&#34;_blank&#34;&gt;Philadelphus microphyllus&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.google.com/search?q=Phlox+diffusa&#34; target=&#34;_blank&#34;&gt;Phlox diffusa&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.google.com/search?q=Phlox+pulvinata&#34; target=&#34;_blank&#34;&gt;Phlox pulvinata&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.google.com/search?q=Phlox+stansburyi&#34; target=&#34;_blank&#34;&gt;Phlox stansburyi&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.google.com/search?q=Phyllodoce+breweri&#34; target=&#34;_blank&#34;&gt;Phyllodoce breweri&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.google.com/search?q=Phyllodoce+empetriformis&#34; target=&#34;_blank&#34;&gt;Phyllodoce empetriformis&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.google.com/search?q=Phyllodoce+glanduliflora&#34; target=&#34;_blank&#34;&gt;Phyllodoce glanduliflora&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.google.com/search?q=Physocarpus+capitatus&#34; target=&#34;_blank&#34;&gt;Physocarpus capitatus&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.google.com/search?q=Physocarpus+monogynus&#34; target=&#34;_blank&#34;&gt;Physocarpus monogynus&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.google.com/search?q=Polemonium+californicum&#34; target=&#34;_blank&#34;&gt;Polemonium californicum&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.google.com/search?q=Polemonium+eximium&#34; target=&#34;_blank&#34;&gt;Polemonium eximium&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.google.com/search?q=Polemonium+foliosissimum&#34; target=&#34;_blank&#34;&gt;Polemonium foliosissimum&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.google.com/search?q=Polemonium+occidentale&#34; target=&#34;_blank&#34;&gt;Polemonium occidentale&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.google.com/search?q=Polemonium+pulcherrimum&#34; target=&#34;_blank&#34;&gt;Polemonium pulcherrimum&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.google.com/search?q=Polemonium+viscosum&#34; target=&#34;_blank&#34;&gt;Polemonium viscosum&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.google.com/search?q=Potentilla+diversifolia&#34; target=&#34;_blank&#34;&gt;Potentilla diversifolia&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.google.com/search?q=Potentilla+flabellifolia&#34; target=&#34;_blank&#34;&gt;Potentilla flabellifolia&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.google.com/search?q=Potentilla+glandulosa&#34; target=&#34;_blank&#34;&gt;Potentilla glandulosa&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.google.com/search?q=Potentilla+gracilis&#34; target=&#34;_blank&#34;&gt;Potentilla gracilis&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.google.com/search?q=Potentilla+hippiana&#34; target=&#34;_blank&#34;&gt;Potentilla hippiana&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.google.com/search?q=Potentilla+pulcherrima&#34; target=&#34;_blank&#34;&gt;Potentilla pulcherrima&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.google.com/search?q=Primula+parryi&#34; target=&#34;_blank&#34;&gt;Primula parryi&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.google.com/search?q=Primula+suffrutescens&#34; target=&#34;_blank&#34;&gt;Primula suffrutescens&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.google.com/search?q=Prunus+virginiana&#34; target=&#34;_blank&#34;&gt;Prunus virginiana&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.google.com/search?q=Pseudocymopterus+montanus&#34; target=&#34;_blank&#34;&gt;Pseudocymopterus montanus&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.google.com/search?q=Pulsatilla+patens&#34; target=&#34;_blank&#34;&gt;Pulsatilla patens&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.google.com/search?q=Purshia+tridentata&#34; target=&#34;_blank&#34;&gt;Purshia tridentata&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.google.com/search?q=Raillardella+argentea&#34; target=&#34;_blank&#34;&gt;Raillardella argentea&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.google.com/search?q=Raillardella+scaposa&#34; target=&#34;_blank&#34;&gt;Raillardella scaposa&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.google.com/search?q=Ranunculus+adoneus&#34; target=&#34;_blank&#34;&gt;Ranunculus adoneus&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.google.com/search?q=Ranunculus+alismifolius&#34; target=&#34;_blank&#34;&gt;Ranunculus alismifolius&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.google.com/search?q=Ranunculus+eschscholtzii&#34; target=&#34;_blank&#34;&gt;Ranunculus eschscholtzii&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.google.com/search?q=Ranunculus+inamoenus&#34; target=&#34;_blank&#34;&gt;Ranunculus inamoenus&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.google.com/search?q=Ranunculus+macauleyi&#34; target=&#34;_blank&#34;&gt;Ranunculus macauleyi&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.google.com/search?q=Rhodiola+integrifolia&#34; target=&#34;_blank&#34;&gt;Rhodiola integrifolia&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.google.com/search?q=Rhodiola+rhodantha&#34; target=&#34;_blank&#34;&gt;Rhodiola rhodantha&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.google.com/search?q=Rhodiola+rosea&#34; target=&#34;_blank&#34;&gt;Rhodiola rosea&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.google.com/search?q=Rhododendron+albiflorum&#34; target=&#34;_blank&#34;&gt;Rhododendron albiflorum&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.google.com/search?q=Rhododendron+columbianum&#34; target=&#34;_blank&#34;&gt;Rhododendron columbianum&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.google.com/search?q=Robinia+neomexicana&#34; target=&#34;_blank&#34;&gt;Robinia neomexicana&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.google.com/search?q=Rosa+gymnocarpa&#34; target=&#34;_blank&#34;&gt;Rosa gymnocarpa&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.google.com/search?q=Rosa+woodsii&#34; target=&#34;_blank&#34;&gt;Rosa woodsii&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.google.com/search?q=Rubus+idaeus&#34; target=&#34;_blank&#34;&gt;Rubus idaeus&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.google.com/search?q=Rubus+lasiococcus&#34; target=&#34;_blank&#34;&gt;Rubus lasiococcus&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.google.com/search?q=Rubus+parviflorus&#34; target=&#34;_blank&#34;&gt;Rubus parviflorus&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.google.com/search?q=Rubus+spectabilis&#34; target=&#34;_blank&#34;&gt;Rubus spectabilis&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.google.com/search?q=Rudbeckia+occidentalis&#34; target=&#34;_blank&#34;&gt;Rudbeckia occidentalis&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.google.com/search?q=Sambucus+racemosa&#34; target=&#34;_blank&#34;&gt;Sambucus racemosa&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.google.com/search?q=Sarcodes+sanguinea&#34; target=&#34;_blank&#34;&gt;Sarcodes sanguinea&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.google.com/search?q=Sanicula+graveolens&#34; target=&#34;_blank&#34;&gt;Sanicula graveolens&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.google.com/search?q=Saxifraga+bronchialis&#34; target=&#34;_blank&#34;&gt;Saxifraga bronchialis&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.google.com/search?q=Saxifraga+tolmiei&#34; target=&#34;_blank&#34;&gt;Saxifraga tolmiei&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.google.com/search?q=Sedum+lanceolatum&#34; target=&#34;_blank&#34;&gt;Sedum lanceolatum&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.google.com/search?q=Sedum+stenopetalum&#34; target=&#34;_blank&#34;&gt;Sedum stenopetalum&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.google.com/search?q=Senecio+bigelovii&#34; target=&#34;_blank&#34;&gt;Senecio bigelovii&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.google.com/search?q=Senecio+crassulus&#34; target=&#34;_blank&#34;&gt;Senecio crassulus&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.google.com/search?q=Senecio+eremophilus&#34; target=&#34;_blank&#34;&gt;Senecio eremophilus&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.google.com/search?q=Senecio+fremontii&#34; target=&#34;_blank&#34;&gt;Senecio fremontii&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.google.com/search?q=Senecio+integerrimus&#34; target=&#34;_blank&#34;&gt;Senecio integerrimus&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.google.com/search?q=Senecio+triangularis&#34; target=&#34;_blank&#34;&gt;Senecio triangularis&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.google.com/search?q=Senecio+wootonii&#34; target=&#34;_blank&#34;&gt;Senecio wootonii&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.google.com/search?q=Sidalcea+oregana&#34; target=&#34;_blank&#34;&gt;Sidalcea oregana&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.google.com/search?q=Silene+acaulis&#34; target=&#34;_blank&#34;&gt;Silene acaulis&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.google.com/search?q=Silene+douglasii&#34; target=&#34;_blank&#34;&gt;Silene douglasii&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.google.com/search?q=Silene+lemmonii&#34; target=&#34;_blank&#34;&gt;Silene lemmonii&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.google.com/search?q=Silene+parryi&#34; target=&#34;_blank&#34;&gt;Silene parryi&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.google.com/search?q=Silene+sargentii&#34; target=&#34;_blank&#34;&gt;Silene sargentii&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.google.com/search?q=Smelowskia+americana&#34; target=&#34;_blank&#34;&gt;Smelowskia americana&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.google.com/search?q=Solidago+elongata&#34; target=&#34;_blank&#34;&gt;Solidago elongata&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.google.com/search?q=Solidago+multiradiata&#34; target=&#34;_blank&#34;&gt;Solidago multiradiata&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.google.com/search?q=Solidago+velutina&#34; target=&#34;_blank&#34;&gt;Solidago velutina&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.google.com/search?q=Solidago+wrightii&#34; target=&#34;_blank&#34;&gt;Solidago wrightii&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.google.com/search?q=Sorbus+californica&#34; target=&#34;_blank&#34;&gt;Sorbus californica&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.google.com/search?q=Sorbus+scopulina&#34; target=&#34;_blank&#34;&gt;Sorbus scopulina&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.google.com/search?q=Sorbus+sitchensis&#34; target=&#34;_blank&#34;&gt;Sorbus sitchensis&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.google.com/search?q=Sphenosciadium+capitellatum&#34; target=&#34;_blank&#34;&gt;Sphenosciadium capitellatum&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.google.com/search?q=Sphaeralcea+grossulariifolia&#34; target=&#34;_blank&#34;&gt;Sphaeralcea grossulariifolia&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.google.com/search?q=Spiraea+betulifolia&#34; target=&#34;_blank&#34;&gt;Spiraea betulifolia&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.google.com/search?q=Spiraea+densiflora&#34; target=&#34;_blank&#34;&gt;Spiraea densiflora&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.google.com/search?q=Spiraea+splendens&#34; target=&#34;_blank&#34;&gt;Spiraea splendens&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.google.com/search?q=Stellaria+longipes&#34; target=&#34;_blank&#34;&gt;Stellaria longipes&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.google.com/search?q=Stenotus+acaulis&#34; target=&#34;_blank&#34;&gt;Stenotus acaulis&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.google.com/search?q=Stevia+serrata&#34; target=&#34;_blank&#34;&gt;Stevia serrata&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.google.com/search?q=Streptanthus+tortuosus&#34; target=&#34;_blank&#34;&gt;Streptanthus tortuosus&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.google.com/search?q=Swertia+perennis&#34; target=&#34;_blank&#34;&gt;Swertia perennis&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.google.com/search?q=Swertia+radiata&#34; target=&#34;_blank&#34;&gt;Swertia radiata&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.google.com/search?q=Symphyotrichum+spathulatum&#34; target=&#34;_blank&#34;&gt;Symphyotrichum spathulatum&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.google.com/search?q=Symphyotrichum+foliaceum&#34; target=&#34;_blank&#34;&gt;Symphyotrichum foliaceum&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.google.com/search?q=Taraxacum+officinale&#34; target=&#34;_blank&#34;&gt;Taraxacum officinale&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.google.com/search?q=Tetraneuris+acaulis&#34; target=&#34;_blank&#34;&gt;Tetraneuris acaulis&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.google.com/search?q=Thermopsis+divaricarpa&#34; target=&#34;_blank&#34;&gt;Thermopsis divaricarpa&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.google.com/search?q=Thermopsis+rhombifolia&#34; target=&#34;_blank&#34;&gt;Thermopsis rhombifolia&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.google.com/search?q=Thlaspi+montanum&#34; target=&#34;_blank&#34;&gt;Thlaspi montanum&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.google.com/search?q=Tonestus+lyallii&#34; target=&#34;_blank&#34;&gt;Tonestus lyallii&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.google.com/search?q=Tonestus+pygmaeus&#34; target=&#34;_blank&#34;&gt;Tonestus pygmaeus&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.google.com/search?q=Triantha+occidentalis&#34; target=&#34;_blank&#34;&gt;Triantha occidentalis&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.google.com/search?q=Trifolium+dasyphyllum&#34; target=&#34;_blank&#34;&gt;Trifolium dasyphyllum&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.google.com/search?q=Trifolium+longipes&#34; target=&#34;_blank&#34;&gt;Trifolium longipes&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.google.com/search?q=Trifolium+parryi&#34; target=&#34;_blank&#34;&gt;Trifolium parryi&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.google.com/search?q=Trillium+ovatum&#34; target=&#34;_blank&#34;&gt;Trillium ovatum&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.google.com/search?q=Valeriana+arizonica&#34; target=&#34;_blank&#34;&gt;Valeriana arizonica&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.google.com/search?q=Valeriana+californica&#34; target=&#34;_blank&#34;&gt;Valeriana californica&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.google.com/search?q=Valeriana+edulis&#34; target=&#34;_blank&#34;&gt;Valeriana edulis&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.google.com/search?q=Valeriana+occidentalis&#34; target=&#34;_blank&#34;&gt;Valeriana occidentalis&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.google.com/search?q=Valeriana+sitchensis&#34; target=&#34;_blank&#34;&gt;Valeriana sitchensis&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.google.com/search?q=Veratrum+californicum&#34; target=&#34;_blank&#34;&gt;Veratrum californicum&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.google.com/search?q=Veratrum+viride&#34; target=&#34;_blank&#34;&gt;Veratrum viride&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.google.com/search?q=Veronica+copelandii&#34; target=&#34;_blank&#34;&gt;Veronica copelandii&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.google.com/search?q=Veronica+cusickii&#34; target=&#34;_blank&#34;&gt;Veronica cusickii&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.google.com/search?q=Veronica+serpyllifolia&#34; target=&#34;_blank&#34;&gt;Veronica serpyllifolia&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.google.com/search?q=Veronica+wormskjoldii&#34; target=&#34;_blank&#34;&gt;Veronica wormskjoldii&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.google.com/search?q=Vicia+americana&#34; target=&#34;_blank&#34;&gt;Vicia americana&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.google.com/search?q=Viola+adunca&#34; target=&#34;_blank&#34;&gt;Viola adunca&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.google.com/search?q=Viola+bakeri&#34; target=&#34;_blank&#34;&gt;Viola bakeri&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.google.com/search?q=Viola+canadensis&#34; target=&#34;_blank&#34;&gt;Viola canadensis&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.google.com/search?q=Viola+glabella&#34; target=&#34;_blank&#34;&gt;Viola glabella&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.google.com/search?q=Viola+macloskeyi&#34; target=&#34;_blank&#34;&gt;Viola macloskeyi&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.google.com/search?q=Viola+orbiculata&#34; target=&#34;_blank&#34;&gt;Viola orbiculata&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.google.com/search?q=Viola+purpurea&#34; target=&#34;_blank&#34;&gt;Viola purpurea&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.google.com/search?q=Wyethia+mollis&#34; target=&#34;_blank&#34;&gt;Wyethia mollis&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.google.com/search?q=Xerophyllum+tenax&#34; target=&#34;_blank&#34;&gt;Xerophyllum tenax&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.google.com/search?q=Zigadenus+venenosus&#34; target=&#34;_blank&#34;&gt;Zigadenus venenosus&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Study Sites</title>
+      <link>https://www.bloomfinder.org/project/map/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.bloomfinder.org/project/map/</guid>
+      <description>&lt;p&gt;Our study sites are located in heavily visited mountain natural areas throughout the western USA. These environments harbor meadow ecosystems that produce spectacular wildflower displays that are ecologically important and draw large numbers of human visitors.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://www.bloomfinder.org/img/study_site_map.png&#34; alt=&#34;Study sites&#34; /&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
