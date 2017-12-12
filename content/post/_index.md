@@ -6,7 +6,7 @@ highlight = false
 
 # Optional featured image (relative to `static/img/` folder).
 [header]
-image = ""
-caption = ""
+image = "four_meadows.jpg"
+caption = "Mountain meadows host diverse collections of plants."
 
 +++
